@@ -79,7 +79,7 @@ docker build -t astronomy-app .
 
 ### Run Docker Container
 ```bash
-docker run --rm astronomy-app
+docker run -d astronomy-app
 ```
 
 ---
