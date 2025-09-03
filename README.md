@@ -1,3 +1,13 @@
+# Java Astronomy App
+
+![License](https://img.shields.io/github/license/M-Tayyab06/Java_Astronomy_App?color=blue)
+![Stars](https://img.shields.io/github/stars/M-Tayyab06/Java_Astronomy_App?style=social)
+![Issues](https://img.shields.io/github/issues/M-Tayyab06/Java_Astronomy_App)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Java](https://img.shields.io/badge/Java-17-red?logo=java)
+![Astronomy](https://img.shields.io/badge/Astronomy-STEM-blue?logo=starry)
+
+
 # Java Astronomy Events App
 
 ## Overview
